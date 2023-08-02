@@ -1,0 +1,85 @@
+{
+  "uid" : "72139409dfc40623",
+  "name" : "test_shopclues_login01[shopclue_login_data0]",
+  "fullName" : "test_shopclues_login.Test_shopclues#test_shopclues_login01",
+  "historyId" : "0f5c231f761c992201654e05d416bba6",
+  "time" : {
+    "start" : 1690964150394,
+    "stop" : 1690964173546,
+    "duration" : 23152
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "shopclue_login_data",
+    "time" : {
+      "start" : 1690964150393,
+      "stop" : 1690964150393,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "comm_file",
+    "time" : {
+      "start" : 1690964135942,
+      "stop" : 1690964150393,
+      "duration" : 14451
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_shopclues_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_shopclues"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3IIDO4U"
+  }, {
+    "name" : "thread",
+    "value" : "15096-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_shopclues_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "shopclue_login_data",
+    "value" : "('rahul.ipe@gmail.com', 'rahul1803sarda@#$%')"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72139409dfc40623.json",
+  "parameterValues" : [ "('rahul.ipe@gmail.com', 'rahul1803sarda@#$%')" ]
+}

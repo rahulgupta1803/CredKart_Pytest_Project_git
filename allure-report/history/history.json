@@ -1,0 +1,144 @@
+{
+  "0b87df41da0b2df1b95e28229475176b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5026980d65da3f39",
+      "reportUrl" : "http://localhost:8080/job/CredKart_Pytest_Project_jenkins/1/allure/#testresult/5026980d65da3f39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690964131598,
+        "stop" : 1690964135935,
+        "duration" : 4337
+      }
+    } ]
+  },
+  "6f3a50c4453cd3e03a4912b6960246b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9e1e3882fc9d1a88",
+      "reportUrl" : "http://localhost:8080/job/CredKart_Pytest_Project_jenkins/1/allure/#testresult/9e1e3882fc9d1a88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690964185761,
+        "stop" : 1690964208806,
+        "duration" : 23045
+      }
+    } ]
+  },
+  "a3bac232ea1c40482de9757f27afc718" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0d5b90a7287014",
+      "reportUrl" : "http://localhost:8080/job/CredKart_Pytest_Project_jenkins/1/allure/#testresult/d0d5b90a7287014",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690964126984,
+        "stop" : 1690964127447,
+        "duration" : 463
+      }
+    } ]
+  },
+  "4917419804ee5c92f762536ab1cf6b24" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e6f206d90e92650",
+      "reportUrl" : "http://localhost:8080/job/CredKart_Pytest_Project_jenkins/1/allure/#testresult/5e6f206d90e92650",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1690964220680,
+        "stop" : 1690964242600,
+        "duration" : 21920
+      }
+    } ]
+  },
+  "0f5c231f761c992201654e05d416bba6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "72139409dfc40623",
+      "reportUrl" : "http://localhost:8080/job/CredKart_Pytest_Project_jenkins/1/allure/#testresult/72139409dfc40623",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690964150394,
+        "stop" : 1690964173546,
+        "duration" : 23152
+      }
+    } ]
+  },
+  "8ed42e78e46bf870939ff94d3c811eae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "464a1d4b3cb9b762",
+      "reportUrl" : "http://localhost:8080/job/CredKart_Pytest_Project_jenkins/1/allure/#testresult/464a1d4b3cb9b762",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690964255120,
+        "stop" : 1690964278575,
+        "duration" : 23455
+      }
+    } ]
+  },
+  "3be7fbfb62b01c29f7e7ffda9dc04313" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7c05fce7eb7fba8e",
+      "reportUrl" : "http://localhost:8080/job/CredKart_Pytest_Project_jenkins/1/allure/#testresult/7c05fce7eb7fba8e",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1690964290705,
+        "stop" : 1690964311867,
+        "duration" : 21162
+      }
+    } ]
+  }
+}

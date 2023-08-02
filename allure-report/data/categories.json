@@ -1,0 +1,37 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert False",
+      "children" : [ {
+        "name" : "test_shopclues_login01[shopclue_login_data2]",
+        "uid" : "5e6f206d90e92650",
+        "parentUid" : "8d89788b03808d3beec6ddf8e7d75f3d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1690964220680,
+          "stop" : 1690964242600,
+          "duration" : 21920
+        },
+        "flaky" : false,
+        "parameters" : [ "('rahul.ipe@gmail.com', 'rahul1803sarda@#$')" ]
+      }, {
+        "name" : "test_shopclues_login01[shopclue_login_data4]",
+        "uid" : "7c05fce7eb7fba8e",
+        "parentUid" : "8d89788b03808d3beec6ddf8e7d75f3d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1690964290705,
+          "stop" : 1690964311867,
+          "duration" : 21162
+        },
+        "flaky" : false,
+        "parameters" : [ "('rahul.ip@gmail.com', 'rahul1803sarrda@#')" ]
+      } ],
+      "uid" : "8d89788b03808d3beec6ddf8e7d75f3d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

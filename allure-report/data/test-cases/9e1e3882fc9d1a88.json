@@ -1,0 +1,85 @@
+{
+  "uid" : "9e1e3882fc9d1a88",
+  "name" : "test_shopclues_login01[shopclue_login_data1]",
+  "fullName" : "test_shopclues_login.Test_shopclues#test_shopclues_login01",
+  "historyId" : "6f3a50c4453cd3e03a4912b6960246b2",
+  "time" : {
+    "start" : 1690964185761,
+    "stop" : 1690964208806,
+    "duration" : 23045
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "comm_file",
+    "time" : {
+      "start" : 1690964173559,
+      "stop" : 1690964185760,
+      "duration" : 12201
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "shopclue_login_data",
+    "time" : {
+      "start" : 1690964185760,
+      "stop" : 1690964185760,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_shopclues_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_shopclues"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3IIDO4U"
+  }, {
+    "name" : "thread",
+    "value" : "15096-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_shopclues_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "shopclue_login_data",
+    "value" : "('rahul.ipe@gmai.com', 'rahul1803sarda@#$%')"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e1e3882fc9d1a88.json",
+  "parameterValues" : [ "('rahul.ipe@gmai.com', 'rahul1803sarda@#$%')" ]
+}

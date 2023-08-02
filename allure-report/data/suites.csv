@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Aug 02 13:47:35 IST 2023","Wed Aug 02 13:47:58 IST 2023","23455","","test_shopclues_login","Test_shopclues","","","test_shopclues_login01[shopclue_login_data3]",""
+"passed","Wed Aug 02 13:45:31 IST 2023","Wed Aug 02 13:45:35 IST 2023","4337","","test_login","Test_CredKart_Login","","","test_Credkart_login_02",""
+"failed","Wed Aug 02 13:47:00 IST 2023","Wed Aug 02 13:47:22 IST 2023","21920","","test_shopclues_login","Test_shopclues","","","test_shopclues_login01[shopclue_login_data2]",""
+"failed","Wed Aug 02 13:48:10 IST 2023","Wed Aug 02 13:48:31 IST 2023","21162","","test_shopclues_login","Test_shopclues","","","test_shopclues_login01[shopclue_login_data4]",""
+"passed","Wed Aug 02 13:45:26 IST 2023","Wed Aug 02 13:45:27 IST 2023","463","","test_login","Test_CredKart_Login","","","test_pageTilte01",""
+"passed","Wed Aug 02 13:46:25 IST 2023","Wed Aug 02 13:46:48 IST 2023","23045","","test_shopclues_login","Test_shopclues","","","test_shopclues_login01[shopclue_login_data1]",""
+"passed","Wed Aug 02 13:45:50 IST 2023","Wed Aug 02 13:46:13 IST 2023","23152","","test_shopclues_login","Test_shopclues","","","test_shopclues_login01[shopclue_login_data0]",""

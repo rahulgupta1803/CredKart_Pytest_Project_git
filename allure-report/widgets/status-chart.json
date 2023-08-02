@@ -1,0 +1,71 @@
+[ {
+  "uid" : "464a1d4b3cb9b762",
+  "name" : "test_shopclues_login01[shopclue_login_data3]",
+  "time" : {
+    "start" : 1690964255120,
+    "stop" : 1690964278575,
+    "duration" : 23455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5026980d65da3f39",
+  "name" : "test_Credkart_login_02",
+  "time" : {
+    "start" : 1690964131598,
+    "stop" : 1690964135935,
+    "duration" : 4337
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e6f206d90e92650",
+  "name" : "test_shopclues_login01[shopclue_login_data2]",
+  "time" : {
+    "start" : 1690964220680,
+    "stop" : 1690964242600,
+    "duration" : 21920
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c05fce7eb7fba8e",
+  "name" : "test_shopclues_login01[shopclue_login_data4]",
+  "time" : {
+    "start" : 1690964290705,
+    "stop" : 1690964311867,
+    "duration" : 21162
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0d5b90a7287014",
+  "name" : "test_pageTilte01",
+  "time" : {
+    "start" : 1690964126984,
+    "stop" : 1690964127447,
+    "duration" : 463
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e1e3882fc9d1a88",
+  "name" : "test_shopclues_login01[shopclue_login_data1]",
+  "time" : {
+    "start" : 1690964185761,
+    "stop" : 1690964208806,
+    "duration" : 23045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72139409dfc40623",
+  "name" : "test_shopclues_login01[shopclue_login_data0]",
+  "time" : {
+    "start" : 1690964150394,
+    "stop" : 1690964173546,
+    "duration" : 23152
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

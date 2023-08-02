@@ -1,0 +1,105 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_login",
+    "children" : [ {
+      "name" : "Test_CredKart_Login",
+      "children" : [ {
+        "name" : "test_pageTilte01",
+        "uid" : "d0d5b90a7287014",
+        "parentUid" : "37e12e43444057b9cf0fd0183453043e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690964126984,
+          "stop" : 1690964127447,
+          "duration" : 463
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_Credkart_login_02",
+        "uid" : "5026980d65da3f39",
+        "parentUid" : "37e12e43444057b9cf0fd0183453043e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690964131598,
+          "stop" : 1690964135935,
+          "duration" : 4337
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "37e12e43444057b9cf0fd0183453043e"
+    } ],
+    "uid" : "7db21133bf389fa43eef71e3fe0b0e68"
+  }, {
+    "name" : "test_shopclues_login",
+    "children" : [ {
+      "name" : "Test_shopclues",
+      "children" : [ {
+        "name" : "test_shopclues_login01[shopclue_login_data0]",
+        "uid" : "72139409dfc40623",
+        "parentUid" : "8b798d7b2f3e567cbb1708ae1b86dac4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690964150394,
+          "stop" : 1690964173546,
+          "duration" : 23152
+        },
+        "flaky" : false,
+        "parameters" : [ "('rahul.ipe@gmail.com', 'rahul1803sarda@#$%')" ]
+      }, {
+        "name" : "test_shopclues_login01[shopclue_login_data1]",
+        "uid" : "9e1e3882fc9d1a88",
+        "parentUid" : "8b798d7b2f3e567cbb1708ae1b86dac4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690964185761,
+          "stop" : 1690964208806,
+          "duration" : 23045
+        },
+        "flaky" : false,
+        "parameters" : [ "('rahul.ipe@gmai.com', 'rahul1803sarda@#$%')" ]
+      }, {
+        "name" : "test_shopclues_login01[shopclue_login_data2]",
+        "uid" : "5e6f206d90e92650",
+        "parentUid" : "8b798d7b2f3e567cbb1708ae1b86dac4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1690964220680,
+          "stop" : 1690964242600,
+          "duration" : 21920
+        },
+        "flaky" : false,
+        "parameters" : [ "('rahul.ipe@gmail.com', 'rahul1803sarda@#$')" ]
+      }, {
+        "name" : "test_shopclues_login01[shopclue_login_data3]",
+        "uid" : "464a1d4b3cb9b762",
+        "parentUid" : "8b798d7b2f3e567cbb1708ae1b86dac4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690964255120,
+          "stop" : 1690964278575,
+          "duration" : 23455
+        },
+        "flaky" : false,
+        "parameters" : [ "('rahulipe@gmail.com', 'rahul1803sarda@#$%')" ]
+      }, {
+        "name" : "test_shopclues_login01[shopclue_login_data4]",
+        "uid" : "7c05fce7eb7fba8e",
+        "parentUid" : "8b798d7b2f3e567cbb1708ae1b86dac4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1690964290705,
+          "stop" : 1690964311867,
+          "duration" : 21162
+        },
+        "flaky" : false,
+        "parameters" : [ "('rahul.ip@gmail.com', 'rahul1803sarrda@#')" ]
+      } ],
+      "uid" : "8b798d7b2f3e567cbb1708ae1b86dac4"
+    } ],
+    "uid" : "7c6e1625f3819ceb413f461756be0da0"
+  } ]
+}
